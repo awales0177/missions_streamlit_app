@@ -1,0 +1,67 @@
+def get_m_data():
+    return [
+        {'Country':'US',
+        'Lat':39.350250,
+        'Lon':-76.485670,
+        'group':'Church',
+        'hover':'Life Source International',
+        'icon':'home',
+        'prefix':'fa'},
+
+        {'Country':'Colombia',
+        'Lat':4.7,
+        'Lon':-74.07,
+        'group':'Water_columbia',
+        'hover':'Colombia',
+        'icon':'tint',
+        'prefix':'fa'},
+
+        {'Country':'Ethiopia',
+        'Lat':9.14,
+        'Lon':40.48,
+        'group':'Water_ethiopia',
+        'hover':'Ethiopia',
+        'icon':'tint',
+        'prefix':'fa'},
+
+        {'Country':'Nigeria',
+        'Lat':9.08,
+        'Lon':8.67,
+        'group':'Medical',
+        'hover':'Nigeria',
+        'icon':'heartbeat',
+        'prefix':'fa'},
+
+        {'Country':'Kenya',
+        'Lat':0.023,
+        'Lon':37.906,
+        'group':'Prayer Center',
+        'hover':'Kenya',
+        'icon':'custom-markers/prayer.png',
+        'prefix':'custom'},
+
+        {'Country':'Phillipines',
+        'Lat':12.8,
+        'Lon':121.77,
+        'group':'Country',
+        'hover':'Phillipines',
+        'icon':'globe',
+        'prefix':'fa'},
+
+        {'Country':'Haiti',
+        'Lat':18.97,
+        'Lon':-72.28,
+        'group':'Country',
+        'hover':'Haiti',
+        'icon':'globe',
+        'prefix':'fa'},
+
+        {'Country':'Kenya',
+        'Lat':20,
+        'Lon':0,
+        'group':'Home for Children',
+        'hover':'Kenya',
+        'icon': 'custom-markers/children-home.png',
+        'prefix':'custom'}
+   
+    ]
