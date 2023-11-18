@@ -2,7 +2,6 @@ import os
 import altair as alt
 import numpy as np
 import pandas as pd
-import pydeck as pdk
 import streamlit as st
 from streamlit_lottie import st_lottie_spinner
 from streamlit_lottie import st_lottie
@@ -10,7 +9,6 @@ import json
 from streamlit_folium import st_folium
 import folium
 from PIL import Image
-import matplotlib.pyplot as plt
 
 # LOAD DATA ONCE
 @st.cache_resource
