@@ -28,7 +28,6 @@ from streamlit_folium import st_folium
 import folium
 from PIL import Image
 
-import matplotlib.pyplot as plt
 from click_pages.well_water_ethiopia import load_well_ethiopia
 from click_pages.well_water_colombia import load_well_colombia
 from click_pages.medical import load_medical
