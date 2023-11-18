@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+streamlit_lottie
+streamlit_folium
+folium
+pillow
