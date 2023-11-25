@@ -15,7 +15,7 @@ def load_well_ethiopia():
     row1_1, row1_2 = st.columns((9, 3))
     with row1_1:
         st.title("Well Water Project - Ethiopia")
-    st.title("﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌")
+    st.title("﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌")
     st.subheader("Bringing Life through Water")
     st.write(
             """
